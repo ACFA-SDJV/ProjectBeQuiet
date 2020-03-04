@@ -80,3 +80,4 @@ DerivedDataCache/*
 **/*.wsetting
 **/*.validationcache
 **/*.wem
+Config/DefaultGame.ini
